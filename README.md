@@ -1,6 +1,6 @@
 ## Örüntü Tanıma Görsele Filtre Uygulanması
 
-Bu proje filtrelerin görüntü üzerinde uygulandığında nasıl göründüğünün anlaşılması için oluşturulmuştur.
+Bu proje, filtrelerin bir görsel üzerinde uygulandığında nasıl göründüğünün anlaşılması için oluşturulmuştur.
 
 ## İnci küpeli kız görseli üzerine;
 
